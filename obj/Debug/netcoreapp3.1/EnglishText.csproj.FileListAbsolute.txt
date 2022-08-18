@@ -1,0 +1,13 @@
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.csprojAssemblyReference.cache
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.AssemblyInfoInputs.cache
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.AssemblyInfo.cs
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.csproj.CoreCompileInputs.cache
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.exe
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.deps.json
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.runtimeconfig.json
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.runtimeconfig.dev.json
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.dll
+C:\Users\E001150\Desktop\EnglishText\bin\Debug\netcoreapp3.1\EnglishText.pdb
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.dll
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.pdb
+C:\Users\E001150\Desktop\EnglishText\obj\Debug\netcoreapp3.1\EnglishText.genruntimeconfig.cache
