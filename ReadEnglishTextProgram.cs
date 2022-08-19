@@ -16,10 +16,11 @@ namespace EnglishText {
                 if (str.Trim () == "") {
                     // ignore the empty word
                 } else {
-                    lstreturn.Add (str.Trim ());
+                    lstreturn.Add (str.Trim (new Char[] { ' ', '*', '.', '+', '/', '!', '@', '#', '$', '%', '^', '&', '(', ')', '?', '/', '{', '}', ']' }));
                     Console.WriteLine (str.Trim ());
                 }
             }
+
             return lstreturn.ToArray ();
         }
 

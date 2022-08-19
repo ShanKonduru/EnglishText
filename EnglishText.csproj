@@ -2,9 +2,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>ReadWriteExcel.ReadWriteExcel</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="System.Linq" Version="4.3.0"/>
     <PackageReference Include="System.Collections" Version="4.3.0"/>
+    <PackageReference Include="Excel" Version="1.0.0"/>
+    <PackageReference Include="ExcelDataReader" Version="3.6.0"/>
   </ItemGroup>
 </Project>
